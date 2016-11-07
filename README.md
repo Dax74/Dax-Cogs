@@ -1,2 +1,2 @@
 # Dax-Cogs
-Custon cogs for Red Discorbot
+Custom cogs for Red Discorbot
