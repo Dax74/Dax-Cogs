@@ -1,6 +1,8 @@
 {
   "AUTHOR" : "Dax",
-  "DESCRIPTION" : "A simple google search",
+  "INSTALL_MSG" : "Effettua ricerche su Google", 
+  "DESCRIPTION" : "Effettua ricerche su Google anche per Video, Immagini e Mappe",
+  "SHORT" : "Effettua ricerche su Google",
   "DISABLED" : false,
-  "NAME" : "Google search and special search like Video, Images or Maps"
+  "NAME" : "GoogleAgain"
 }
