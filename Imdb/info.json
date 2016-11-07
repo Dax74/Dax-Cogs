@@ -1,6 +1,8 @@
 {
   "AUTHOR" : "Dax",
-  "DESCRIPTION" : "Ricerca IMDB",
+  "INSTALL_MSG" : "Cerca film e serie tv su IMDB", 
+  "DESCRIPTION" : "Cerca film e serie tv su IMDB",
+  "SHORT" : "Cerca film e serie tv su IMDB",
   "DISABLED" : false,
-  "NAME" : "Ricerca su IMDb"
+  "NAME" : "imdb"
 }
