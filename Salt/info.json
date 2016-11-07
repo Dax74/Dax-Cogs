@@ -1,6 +1,8 @@
 {
   "AUTHOR" : "Dax",
-  "DESCRIPTION" : "Original cog made by JennJenn, modified for Adunanza",
+  "INSTALL_MSG" : "Aggiungi .gif e .png nella cartella data/salt", 
+  "DESCRIPTION" : "Messaggi automatici inviati dal bot",
+  "NAME" : "Salt"
+  "SHORT" : "Messaggi automatici inviati dal bot",
   "DISABLED" : false,
-  "NAME" : "Dax's Salt"
 }
